@@ -1,0 +1,22 @@
+navidoc(1)
+
+# NAME
+
+navidoc - generate *man*(7) manual pages
+
+# SYNOPSIS
+
+*navidoc* < _input_
+
+# DESCRIPTION
+
+The navidoc utility reads *navidoc*(5) syntax from the standard input and writes
+*man*(7) style roff to the standard output.
+
+# AUTHORS
+
+iwakuramarie
+
+# SEE ALSO
+
+*navidoc*(5)

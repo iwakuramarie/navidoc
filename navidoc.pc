@@ -1,0 +1,7 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+navidoc=${exec_prefix}/bin/navidoc
+
+Name: navidoc
+Description: Man page generator
+Version: 1.11.1
